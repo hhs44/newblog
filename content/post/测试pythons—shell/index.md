@@ -1,7 +1,7 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: "测试pythons—shell"
 description: 
-date: {{ .Date }}
+date: 2022-01-19T01:35:47+08:00
 image: 
 math: 
 license: 
