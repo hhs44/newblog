@@ -6,14 +6,31 @@
     <description>Recent content in Posts on Example Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-hans</language>
-    <lastBuildDate>Thu, 20 Jan 2022 22:13:00 +0800</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Mar 2022 23:45:00 +0800</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>hugo&#43;django&#43;githubPage 个人博客搭建（一）</title>
       <link>https://example.com/p/hugo-django-githubpage-%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E4%B8%80/</link>
-      <pubDate>Thu, 20 Jan 2022 22:13:00 +0800</pubDate>
+      <pubDate>Mon, 07 Mar 2022 23:45:00 +0800</pubDate>
       
       <guid>https://example.com/p/hugo-django-githubpage-%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E4%B8%80/</guid>
-      <description>hugo的搭建 dajngo搭建 githubPage准备 思路  admin展示数据时对数据进行替换达到显示出图片 文章目录的显示  </description>
+      <description>hugo的搭建 第一步：安装scoop 安装前需要准备的利器：scoop（一个安装包管理工具）
+通过scoop直接安装hugo 到win/mac/linux ，因此本次的实现是能够在各个平台上完美兼容的。参考https://gitee.com/squallliu/scoop
+第二步：hugo安装 在命令行中输入安装命令即可scoop install hugo安装完成后输入hugo help 即可查询到hugo的基本使用
+第三步：新建hugo本地文件 因为本次是和django项目结合在一起，可以计划一个文件夹，里面保证django和hugo在同一级目录下
+dajngo搭建 使用pycharm专业版搭建，并新建一个hugo app。使用到的命令为：python manage.py create hugo
+此外，hugo文章的编辑规则为markdown,在此我选择使用的是django-mdeditor可以为数据库字段提供md的编辑框。
+如下：
+
+githubPage准备 直接参考官方指导即可：https://pages.github.com/</description>
+    </item>
+    
+    <item>
+      <title>更新进展</title>
+      <link>https://example.com/p/%E6%9B%B4%E6%96%B0%E8%BF%9B%E5%B1%95/</link>
+      <pubDate>Tue, 25 Jan 2022 21:24:00 +0800</pubDate>
+      
+      <guid>https://example.com/p/%E6%9B%B4%E6%96%B0%E8%BF%9B%E5%B1%95/</guid>
+      <description>思路  admin展示数据时对数据进行替换达到显示出图片 文章目录的显示更新blog  </description>
     </item>
     
     <item>
