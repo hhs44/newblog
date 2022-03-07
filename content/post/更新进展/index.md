@@ -9,6 +9,13 @@ series=["Themes Guide"]
 aliases=["migrate-from-jekyl"]
 +++
 # 思路
-- admin展示数据时对数据进行替换达到显示出图片
-- 文章目录的显示
+## 计划
++ 分类功能优化
++ 访问人数功能
++ 热点博客写一篇
++ 赚钱资料上传
+## 已完成
+- admin展示数据时对数据进行替换达到显示出图片 done
+- 文章目录的显示 done
+
 更新blog
