@@ -3,8 +3,8 @@ title="hugo+django+githubPage 个人博客搭建（一）"
 description="使用hugo生成静态网页，使用django做后台进行博客的管理，使用githubPage进行页面展示"
 date="2022-03-07 23:45:00+08:00"
 image="uTools_1642688324700.png"
-tags=["",]
-categories=["",]
+tags=["hugo","django","githubpage",]
+categories=["博客搭建",]
 series=["Themes Guide"]
 aliases=["migrate-from-jekyl"]
 +++
